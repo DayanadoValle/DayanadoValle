@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DayanadoValle
+- 🌱 I’m currently learning Javascript, HtML e CSS, LGPD, GiTHub
