@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @DayanadoValle
-- 🌱 I’m currently learning Javascript, HtML e CSS, LGPD, GiTHub
+- 🌱 I’m currently learning Javascript, HTML e CSS, LGPD, GitHub
