@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @DayanadoValle
-- 🌱 I’m currently learning JS, HTML5 and CSS3.
+- 🌱 I’m currently learning JS, HTML5, CSS3, API and AWS.
