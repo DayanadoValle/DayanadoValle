@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DayanadoValle
-- 🌱 I’m currently learning JS, HTML5, CSS3,bootstrap, nodejs, java,API, and Cloud .
+- 🌱 HTML5, CSS3,bootstrap,JS, Nodejs, Java , API, and Cloud(AWS) .
 - https://www.linkedin.com/in/dayana-do-valle/
