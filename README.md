@@ -6,7 +6,6 @@
 [![portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dayanadovalle-portfolio.netlify.app/)	
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayanadoValle&layout=compact)](https://github.com/DayanadoVallegithub-readme-stats)
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DayanadoValle&show_icons=true&theme=dracula)
 
 
  
