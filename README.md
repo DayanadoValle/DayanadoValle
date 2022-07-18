@@ -1,6 +1,6 @@
 ## Hello World!  :wave:	
 
- Desenvolvedora  iniciante :computer:	Análise  & desenvolvimento de sistemas 
+ Desenvolvedora  iniciante :computer:	Análise  & desenvolvimento de sistemas - ABC -SP
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-do-valle/)
 [![portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dayanadovalle-portfolio.netlify.app/)	
