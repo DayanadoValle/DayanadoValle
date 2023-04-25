@@ -3,7 +3,6 @@
  Desenvolvedora  iniciante :computer:	Graduada : Análise  & desenvolvimento de sistemas
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-do-valle/)
-[![portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dayanadovalle-portfolio.netlify.app/)	
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayanadoValle&layout=compact)](https://github.com/DayanadoVallegithub-readme-stats)
 
