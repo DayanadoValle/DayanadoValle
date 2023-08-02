@@ -4,7 +4,7 @@
 - Análise  & desenvolvimento de sistemas, conclusão Dez/2022
 -  Programação Web Full-Stack, 2023 [Campinho Digital](https://www.campinhodigital.org/programa%C3%A7ao-web-full-stack)
 - Educação em Tec, 2023 [InstNu e Descomplica](https://institutonu.com.br/educacao/)
-- Eu Progr{amo} Front End #2 - 2023 [Programaria](https://www.programaria.org/curso-online-euprogramo-fe2)
+- Eu Progr{amo} Front End #2 , 2023 [Programaria](https://www.programaria.org/curso-online-euprogramo-fe2)
 - UI/UX Basics, 2022 [Estação hack from Facebook](https://estacaohack.fb.com/cursos/)
  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-do-valle/)
