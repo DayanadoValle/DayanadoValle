@@ -1,6 +1,6 @@
 ## Hello World!  :wave:	
 
- Desenvolvedora  Jr :computer:	
+ Desenvolvedora Front-End  Jr :computer:	
 - Análise  & desenvolvimento de sistemas, conclusão Dez/2022
 -  Programação Web Full-Stack, 2023 [Campinho Digital](https://www.campinhodigital.org/programa%C3%A7ao-web-full-stack)
 - Educação em Tec, 2023 [InstNu e Descomplica](https://institutonu.com.br/educacao/)
