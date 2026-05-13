@@ -1,8 +1,8 @@
 ## Hello World!  :wave:	
 
  Desenvolvedora Front-End  Jr :computer:	
-- Análise  & desenvolvimento de sistemas]
-- Desenvolvimento Back-end - Governando de Santa Catarina - 2026 [SCTEC](https://sctec.scti.sc.gov.br/trilha-desenvolvimento-de-software/)
+- Análise  & desenvolvimento de sistemas
+- Desenvolvimento Back-end - SCTI/SENAI- 2026 [SCTEC](https://sctec.scti.sc.gov.br/trilha-desenvolvimento-de-software/)
 -  Programação Web Full-Stack [Campinho Digital](https://www.campinhodigital.org/)
 - Educação em Tech [InstNu e Descomplica](https://institutonu.com.br/educacao/)
 - Eu Progr{amo} Front End #2 [Programaria](https://www.programaria.org/curso-online-euprogramo-fe2)
