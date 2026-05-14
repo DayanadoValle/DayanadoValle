@@ -4,13 +4,13 @@
 - Análise  & desenvolvimento de sistemas
 - Desenvolvimento Back-end - SCTI/SENAI- 2026 [SCTEC](https://sctec.scti.sc.gov.br/trilha-desenvolvimento-de-software/)
 -  Programação Web Full-Stack [Campinho Digital](https://www.campinhodigital.org/)
-- Educação em Tech [InstNu e Descomplica](https://institutonu.com.br/educacao/)
-- Eu Progr{amo} Front End #2 [Programaria]([https://www.programaria.org/curso-online-euprogramo-fe2](https://www.programaria.org/))
+- Educação em Tech [InstNu e Descomplica](https://institutonu.com.br/educacao/
+- Eu Progr{amo} Front End #2 [Programaria](https://www.programaria.org/curso-online-euprogramo-fe2](https://www.programaria.org/)
 - UI/UX Basics,  [Estação hack from Facebook](https://estacaohack.fb.com/cursos/)
  
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-do-valle/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayana-do-valle/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayanadoValle&layout=compact)](https://github.com/DayanadoVallegithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayanadoValle&layout=compact)](https://github.com/DayanadoVallegithub-readme-stats
 
 
  
