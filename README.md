@@ -1,6 +1,5 @@
 ## Hello World! 👋
 
-**Desenvolvedora Front-End Jr** 💻
 
 - Análise & Desenvolvimento de Sistemas
 - Desenvolvimento Back-end - SCTI/SENAI - 2026  
